@@ -1,0 +1,1 @@
+Published postman documentation of crudAPI: https://documenter.getpostman.com/view/23918369/2s93sjVUfD
