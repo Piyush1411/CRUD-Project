@@ -8,7 +8,7 @@
     "dev": "nodemon server"
   },
   "author": "Piyush Gupta",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
     "cors": "^2.8.5",
@@ -21,5 +21,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piyush1411/Crud-Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Piyush1411/Crud-Project/issues"
+  },
+  "homepage": "https://github.com/Piyush1411/Crud-Project#readme"
 }
